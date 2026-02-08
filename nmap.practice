@@ -1,0 +1,40 @@
+# Nmap Practice — TryHackMe Notes
+
+## What I practiced
+
+Today I worked with Nmap in a TryHackMe lab to understand how security professionals discover devices and services on a network.
+
+Nmap helps answer questions like:
+- Is the machine reachable?
+- What ports are open?
+- What services are running?
+
+---
+
+## What I noticed
+
+When I ran scans, I could see different ports listed as open. Each port represents a service that could potentially be used or misconfigured.
+
+It made me realize that:
+- Every open port increases exposure
+- Administrators need to monitor services carefully
+
+---
+
+## My learning moment
+
+At first, I thought scanning was just “finding targets,” but I learned it’s more about understanding a system’s attack surface.
+
+Seeing real scan results helped me connect networking theory to practical cybersecurity work.
+
+---
+
+## Challenges
+
+Sometimes, interpreting scan output was confusing. I had to slow down and read what each section meant.
+
+---
+
+## Reflection
+
+Nmap feels like a map of a system’s doors. Knowing what’s open is the first step in securing it.
